@@ -1,0 +1,7 @@
+{
+  "name": "Heart Disease Prognostication",
+  "description": "Heart Disease Prognostication with Flask Server",
+  "repository": "https://github.com/IqbalSB/heart-disease-prognostication",
+  "logo": "https://i.snipboard.io/Z4hTUk.jpg",
+  "keywords": ["heart", disease", "prognostication"]
+}
